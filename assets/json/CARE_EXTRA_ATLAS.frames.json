@@ -1,0 +1,68 @@
+{
+  "image": "/generated-assets/care_extra_atlas-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 1,
+    "frameWidth": 384,
+    "frameHeight": 384
+  },
+  "frames": [
+    {
+      "name": "paint_smear",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 384,
+        "h": 384
+      },
+      "content": {
+        "x": 41,
+        "y": 62,
+        "w": 398,
+        "h": 370
+      },
+      "anchor": {
+        "x": 240,
+        "y": 431
+      }
+    },
+    {
+      "name": "shelf_dust",
+      "source": {
+        "x": 504,
+        "y": 56,
+        "w": 384,
+        "h": 384
+      },
+      "content": {
+        "x": 511,
+        "y": 120,
+        "w": 379,
+        "h": 272
+      },
+      "anchor": {
+        "x": 701,
+        "y": 391
+      }
+    },
+    {
+      "name": "petal_scatter",
+      "source": {
+        "x": 952,
+        "y": 56,
+        "w": 384,
+        "h": 384
+      },
+      "content": {
+        "x": 964,
+        "y": 59,
+        "w": 383,
+        "h": 375
+      },
+      "anchor": {
+        "x": 1156,
+        "y": 433
+      }
+    }
+  ]
+}

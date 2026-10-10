@@ -1,0 +1,163 @@
+{
+  "image": "/generated-assets/cleaning_dust_atlas-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "dust_patch",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 43,
+        "y": 65,
+        "w": 335,
+        "h": 299
+      },
+      "anchor": {
+        "x": 211,
+        "y": 363
+      }
+    },
+    {
+      "name": "dust_bunny",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 484,
+        "y": 115,
+        "w": 224,
+        "h": 211
+      },
+      "anchor": {
+        "x": 596,
+        "y": 325
+      }
+    },
+    {
+      "name": "cobweb",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 830,
+        "y": 40,
+        "w": 326,
+        "h": 338
+      },
+      "anchor": {
+        "x": 993,
+        "y": 377
+      }
+    },
+    {
+      "name": "crumb_cluster",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1229,
+        "y": 94,
+        "w": 302,
+        "h": 253
+      },
+      "anchor": {
+        "x": 1380,
+        "y": 346
+      }
+    },
+    {
+      "name": "sand_scatter",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 34,
+        "y": 435,
+        "w": 344,
+        "h": 317
+      },
+      "anchor": {
+        "x": 206,
+        "y": 751
+      }
+    },
+    {
+      "name": "leaf_bits",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 457,
+        "y": 442,
+        "w": 284,
+        "h": 285
+      },
+      "anchor": {
+        "x": 599,
+        "y": 726
+      }
+    },
+    {
+      "name": "lint_patch",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 825,
+        "y": 434,
+        "w": 329,
+        "h": 313
+      },
+      "anchor": {
+        "x": 990,
+        "y": 746
+      }
+    },
+    {
+      "name": "soot_mark",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1225,
+        "y": 445,
+        "w": 310,
+        "h": 301
+      },
+      "anchor": {
+        "x": 1380,
+        "y": 745
+      }
+    }
+  ]
+}

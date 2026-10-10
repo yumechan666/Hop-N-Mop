@@ -1,0 +1,163 @@
+{
+  "image": "/generated-assets/cleaning_stain_atlas-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "coffee_ring",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 72,
+        "y": 52,
+        "w": 277,
+        "h": 302
+      },
+      "anchor": {
+        "x": 211,
+        "y": 353
+      }
+    },
+    {
+      "name": "juice_spill",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 438,
+        "y": 63,
+        "w": 307,
+        "h": 297
+      },
+      "anchor": {
+        "x": 592,
+        "y": 359
+      }
+    },
+    {
+      "name": "paint_splash",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 839,
+        "y": 49,
+        "w": 313,
+        "h": 313
+      },
+      "anchor": {
+        "x": 996,
+        "y": 361
+      }
+    },
+    {
+      "name": "soap_scum",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1226,
+        "y": 59,
+        "w": 307,
+        "h": 308
+      },
+      "anchor": {
+        "x": 1380,
+        "y": 366
+      }
+    },
+    {
+      "name": "mirror_smudge",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 51,
+        "y": 435,
+        "w": 302,
+        "h": 319
+      },
+      "anchor": {
+        "x": 202,
+        "y": 753
+      }
+    },
+    {
+      "name": "muddy_print",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 442,
+        "y": 421,
+        "w": 277,
+        "h": 337
+      },
+      "anchor": {
+        "x": 581,
+        "y": 757
+      }
+    },
+    {
+      "name": "grease_mark",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 831,
+        "y": 451,
+        "w": 319,
+        "h": 295
+      },
+      "anchor": {
+        "x": 991,
+        "y": 745
+      }
+    },
+    {
+      "name": "water_spots",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1236,
+        "y": 444,
+        "w": 295,
+        "h": 301
+      },
+      "anchor": {
+        "x": 1384,
+        "y": 744
+      }
+    }
+  ]
+}

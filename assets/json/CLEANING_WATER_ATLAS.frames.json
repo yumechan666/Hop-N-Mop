@@ -1,0 +1,163 @@
+{
+  "image": "/generated-assets/cleaning_water_atlas-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "water_drops",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 89,
+        "y": 58,
+        "w": 235,
+        "h": 291
+      },
+      "anchor": {
+        "x": 207,
+        "y": 348
+      }
+    },
+    {
+      "name": "small_splash",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 443,
+        "y": 107,
+        "w": 306,
+        "h": 234
+      },
+      "anchor": {
+        "x": 596,
+        "y": 340
+      }
+    },
+    {
+      "name": "pour_stream",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 836,
+        "y": 49,
+        "w": 290,
+        "h": 330
+      },
+      "anchor": {
+        "x": 981,
+        "y": 378
+      }
+    },
+    {
+      "name": "shallow_puddle",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1214,
+        "y": 156,
+        "w": 306,
+        "h": 173
+      },
+      "anchor": {
+        "x": 1367,
+        "y": 328
+      }
+    },
+    {
+      "name": "soap_bubbles",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 65,
+        "y": 440,
+        "w": 296,
+        "h": 328
+      },
+      "anchor": {
+        "x": 213,
+        "y": 767
+      }
+    },
+    {
+      "name": "foam_patch",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 435,
+        "y": 485,
+        "w": 323,
+        "h": 259
+      },
+      "anchor": {
+        "x": 597,
+        "y": 743
+      }
+    },
+    {
+      "name": "plant_drips",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 824,
+        "y": 432,
+        "w": 324,
+        "h": 334
+      },
+      "anchor": {
+        "x": 986,
+        "y": 765
+      }
+    },
+    {
+      "name": "glass_sheen",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1222,
+        "y": 437,
+        "w": 288,
+        "h": 321
+      },
+      "anchor": {
+        "x": 1366,
+        "y": 757
+      }
+    }
+  ]
+}

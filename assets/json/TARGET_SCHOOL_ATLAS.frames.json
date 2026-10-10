@@ -1,0 +1,239 @@
+{
+  "image": "/generated-assets/target_school_atlas-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "pencil_cup",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 75,
+        "y": 24,
+        "w": 241,
+        "h": 365
+      },
+      "anchor": {
+        "x": 196,
+        "y": 388
+      }
+    },
+    {
+      "name": "notebook_shelf",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 433,
+        "y": 95,
+        "w": 320,
+        "h": 287
+      },
+      "anchor": {
+        "x": 593,
+        "y": 381
+      }
+    },
+    {
+      "name": "craft_drawer",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 832,
+        "y": 51,
+        "w": 307,
+        "h": 318
+      },
+      "anchor": {
+        "x": 986,
+        "y": 368
+      }
+    },
+    {
+      "name": "science_cabinet",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1230,
+        "y": 35,
+        "w": 285,
+        "h": 358
+      },
+      "anchor": {
+        "x": 1373,
+        "y": 392
+      }
+    },
+    {
+      "name": "goggle_hook",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 41,
+        "y": 419,
+        "w": 309,
+        "h": 335
+      },
+      "anchor": {
+        "x": 196,
+        "y": 753
+      }
+    },
+    {
+      "name": "model_shelf",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 418,
+        "y": 433,
+        "w": 350,
+        "h": 305
+      },
+      "anchor": {
+        "x": 593,
+        "y": 737
+      }
+    },
+    {
+      "name": "backpack_cubby",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 831,
+        "y": 426,
+        "w": 317,
+        "h": 340
+      },
+      "anchor": {
+        "x": 990,
+        "y": 765
+      }
+    },
+    {
+      "name": "lunch_cart",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1215,
+        "y": 423,
+        "w": 322,
+        "h": 356
+      },
+      "anchor": {
+        "x": 1376,
+        "y": 778
+      }
+    },
+    {
+      "name": "coat_hook",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 76,
+        "y": 786,
+        "w": 244,
+        "h": 386
+      },
+      "anchor": {
+        "x": 198,
+        "y": 1171
+      }
+    },
+    {
+      "name": "key_board",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 437,
+        "y": 803,
+        "w": 296,
+        "h": 321
+      },
+      "anchor": {
+        "x": 585,
+        "y": 1123
+      }
+    },
+    {
+      "name": "garden_crate",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 809,
+        "y": 800,
+        "w": 344,
+        "h": 340
+      },
+      "anchor": {
+        "x": 981,
+        "y": 1139
+      }
+    },
+    {
+      "name": "school_recycle",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1201,
+        "y": 811,
+        "w": 355,
+        "h": 327
+      },
+      "anchor": {
+        "x": 1379,
+        "y": 1137
+      }
+    }
+  ]
+}

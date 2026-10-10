@@ -1,0 +1,57 @@
+{
+  "itemScale": {
+    "type": "number",
+    "value": 1,
+    "min": 0.8,
+    "max": 1.25,
+    "step": 0.05,
+    "name": "Object Size",
+    "description": "Scale of draggable room objects",
+    "group": "visual",
+    "index": 1
+  },
+  "itemOpacity": {
+    "type": "number",
+    "value": 0.55,
+    "min": 0.2,
+    "max": 1,
+    "step": 0.05,
+    "name": "Object Blend",
+    "description": "How much objects blend into the room background",
+    "group": "visual",
+    "index": 1.5
+  },
+  "wipeDistance": {
+    "type": "number",
+    "value": 260,
+    "min": 140,
+    "max": 480,
+    "step": 20,
+    "name": "Wipe Distance",
+    "description": "Swipe distance needed to finish a care action",
+    "group": "gameplay",
+    "index": 2
+  },
+  "sparkleCount": {
+    "type": "number",
+    "value": 16,
+    "min": 6,
+    "max": 30,
+    "step": 1,
+    "name": "Sparkle Count",
+    "description": "Particles released by correct placements",
+    "group": "visual",
+    "index": 3
+  },
+  "sfxVolume": {
+    "type": "number",
+    "value": 0.32,
+    "min": 0,
+    "max": 0.7,
+    "step": 0.05,
+    "name": "Sound Volume",
+    "description": "Volume of cleaning feedback sounds",
+    "group": "audio",
+    "index": 4
+  }
+}
